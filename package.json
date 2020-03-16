@@ -1,0 +1,14 @@
+{
+  "name": "demo-qrcode",
+  "version": "1.0.0",
+  "description": "Demo qrcode https://github.com/soldair/node-qrcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emerson Duarte",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
